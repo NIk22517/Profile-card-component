@@ -85,6 +85,9 @@ main {
   color: hsl(0, 0%, 59%);
   font-weight: 400;
 }
+.location {
+  padding: 0.5rem 0rem;
+}
 .profile-details h3 {
   font-family: "Kumbh Sans", sans-serif;
   font-weight: 700;
